@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pyrogram
+tgcrypto
+motor
+dnspython
+requests
+python-dotenv
+
